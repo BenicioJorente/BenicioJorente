@@ -2,13 +2,18 @@
 
 <div align="center">
   <a href="https://github.com/BenicioJorente">
+    <!-- Estatísticas do GitHub -->
     <img height="180em" width="42%" 
     src="https://github-readme-stats.vercel.app/api?username=BenicioJorente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+    <!-- Top Linguagens -->
     <img height="180em" width="42%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenicioJorente&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
+  <!-- Ícones das Tecnologias -->
   <img align="center" alt="Be-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Be-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Be-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
