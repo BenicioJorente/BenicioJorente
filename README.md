@@ -19,7 +19,7 @@
   <img align="center" alt="Be-Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Be-JUnit" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   <img align="center" alt="Be-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Be-GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Be-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" >
 </div>
 
 ---
