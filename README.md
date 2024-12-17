@@ -17,7 +17,7 @@
   <img align="center" alt="Be-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Be-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Be-Cypress" height="50" width="50" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/cypress.svg">
-  <img align="center" alt="Be-JUnit" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Be-JUnit" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   <img align="center" alt="Be-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Be-GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
@@ -56,14 +56,4 @@
   </a>
   <a href="mailto:jorente.benicio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/beniciojorente" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### 🐍 **Contribuições no GitHub**  
-
-![Snake animation](https://github.com/BenicioJorente/BenicioJorente/blob/output/github-contribution-grid-snake.svg)
+  </
